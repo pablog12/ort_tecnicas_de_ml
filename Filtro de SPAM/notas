@@ -1,0 +1,4 @@
+En R las filas del dataset se muestran:
+
+dataset[52][1]
+dataset[row][col]
